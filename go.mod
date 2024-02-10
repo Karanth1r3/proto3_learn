@@ -15,4 +15,4 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240205150955-31a09d347014 // indirect
 )
 
-replace proto3_learn => xorm.io/core v0.0.0
+replace proto3_learn => github.com/Karanth1r3/proto3_learn v0.0.0
