@@ -1,4 +1,4 @@
-module proto3_learn
+module github.com/Karanth1r3/proto3_learn
 
 go 1.21.5
 
